@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(161, 175, 226, 0.39);
+}
+
+fieldset {
+    background-color: rgb(161, 182, 229);
+}
+
+#menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#botao {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
